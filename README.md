@@ -4,25 +4,20 @@ This is a 'M Development - Island royale script' for your fivem server that will
 
 Do you want to take your FiveM server to the next level? Discover the unique concept of the island royale script by M Development! Our advanced script offers a fun and effective way to train your aim and host well manageable events. The script comes with a lot of configuration options in the config.lua file, so you can adjust it to your liking. We also have a documentation to answer your first questions. (will be added soon)
 
-Preview [YouTube]
-
-Documentation
-
 Dependencies
 ESX/QBCORE
 OX_INVENTORY
 Make sure to:
 
-Server license key must be owned by the same account which you make the purchase from.
-Restart server to gain access to the resource in-game.
 This script includes
-An island royale script
+- An island royale script
+  
 Features
-Items stored: When joining the island royale the participating players their items will get stored in the database. They will get the items back when they die or a staffmember use the /stop-royale command.
+- Items stored: When joining the island royale the participating players their items will get stored in the database. They will get the items back when they die or a staffmember use the /stop-royale command.
 
-Random loadout: You will receive a random loadout every time the event gets started. The loadouts are configurable in the config.lua.
+- Random loadout: You will receive a random loadout every time the event gets started. The loadouts are configurable in the config.lua.
 
-Combat logging: If a player logs out while in the island royale the items will get removed and the old ones will get restored when rejoined.
+- Combat logging: If a player logs out while in the island royale the items will get removed and the old ones will get restored when rejoined.
 
 Why Choose M Development? At M Development, we focus on enhancing your gaming experience. Our Island royale script combines advanced functionality with an clear menu, making it a great add-on for your fivem server. The script is free :)
 
@@ -33,10 +28,5 @@ Commands
 /join-royale (everyone)
 /start-royale (staff only)
 /stop-royale (staff only)
-Fivem Asset Escrow System
-This resource is using the Asset Escrow system.
-Click here to know more about it.
-Preview
-73bc6153b450e9265f4d200dfcc372320d316179.png
 
 M Development – For the Ultimate Gaming Experience.

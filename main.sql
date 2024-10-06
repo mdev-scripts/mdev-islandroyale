@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS mdev_islandroyale (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    player_identifier VARCHAR(50) NOT NULL,
+    inventory LONGTEXT NOT NULL,
+    saved_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

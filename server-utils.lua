@@ -1,5 +1,5 @@
 function notification(source, title, text, time, type)
-    TriggerClientEvent('mdev-drugs:client:DefaultNotify', source, text)
+    TriggerClientEvent('mdev-islandroyale:client:DefaultNotify', source, text)
 end
 
 function revivePlayer(source)

@@ -1,9 +1,9 @@
 function notification(title, text, time, type)
-    TriggerEvent('mdev-royale:client:DefaultNotify', text)
+    TriggerEvent('mdev-islandroyale:client:DefaultNotify', text)
 end
 
-RegisterNetEvent('mdev-royale:client:DefaultNotify')
-AddEventHandler('mdev-royale:client:DefaultNotify', function(text)
+RegisterNetEvent('mdev-islandroyale:client:DefaultNotify')
+AddEventHandler('mdev-islandroyale:client:DefaultNotify', function(text)
         SetNotificationTextEntry("STRING")
         AddTextComponentString(text)
         DrawNotification(0,1)
